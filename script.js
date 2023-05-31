@@ -6,7 +6,7 @@ let firstSquish = true;
 
 //language support
 const LANGUAGES = {
-    "_": { fallbackLanguage: "en" },
+    "_": { fallbackLanguage: "cn" },
     "en": {
         audioList: [
             "audio/ja/kuruto.mp3",
