@@ -2,10 +2,16 @@
 
 <div align="center"><img src="img/hertaa_github.gif"></div>
 
-<div align="center"><p>The website for Herta, the cutest genius Honkai: Star Rail character out there!</p>
-<p>献给崩坏：星穹铁道最可爱的天才黑塔酱</p></div>
+# Fork来的
+
+[访问https://zqq.litefen.com/](https://zqq.litefen.com/)
+
+***
+
+
 
 # Herta Kuru | 黑塔转圈圈 | ヘルタクルへ
+
 [Home Page | 主页 | ホーム ページ (Netlify)](https://herta.ft2.ltd/)
 [(BACKUP: via GitHub Pages)](https://duiqt.github.io/herta_kuru/)
 
@@ -20,3 +26,5 @@ Contributers | 贡献者:
 <a href="https://github.com/duiqt/herta_kuru/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=duiqt/herta_kuru" />
 </a>
+<div align="center"><p>The website for Herta, the cutest genius Honkai: Star Rail character out there!</p>
+<p>献给崩坏：星穹铁道最可爱的天才黑塔酱</p></div>
