@@ -7,26 +7,7 @@ let firstSquish = true;
 //language support
 const LANGUAGES = {
     "_": { fallbackLanguage: "cn" },
-    "en": {
-        audioList: [
-            "audio/ja/kuruto.mp3",
-            "audio/ja/kuru1.mp3",
-            "audio/ja/kuru2.mp3",
-        ],
-        texts: {
-            "page-title": "Welcome to herta kuru~",
-            "doc-title": "Kuru Kuru~",
-            "page-descriptions": "The website for Herta, the <del>annoying</del> cutest genius Honkai: Star Rail character out there.",
-            // dynamic texts
-            "counter-descriptions": ["The kuru~ has been squished for", "Herta has been kuru~ed for"],
-            "counter-unit": "times",
-            "counter-button": ["Squish the kuru~!", "Kuru kuru~!"],
-            "credits-gif": "Version",
-            "footer-repository-text": "You can check out the GitHub repository here:",
-            "footer-repository-text-2": "herta_kuru",
-        },
-        cardImage: "img/card_en.jpg"
-    }, "cn": {
+    "cn": {
         audioList: [
             "audio/cn/gululu.mp3",
             "audio/cn/gururu.mp3",
@@ -46,6 +27,26 @@ const LANGUAGES = {
 
         },
         cardImage: "img/card_cn.jpg"
+    },
+    "en": {
+        audioList: [
+            "audio/ja/kuruto.mp3",
+            "audio/ja/kuru1.mp3",
+            "audio/ja/kuru2.mp3",
+        ],
+        texts: {
+            "page-title": "Welcome to herta kuru~",
+            "doc-title": "Kuru Kuru~",
+            "page-descriptions": "The website for Herta, the <del>annoying</del> cutest genius Honkai: Star Rail character out there.",
+            // dynamic texts
+            "counter-descriptions": ["The kuru~ has been squished for", "Herta has been kuru~ed for"],
+            "counter-unit": "times",
+            "counter-button": ["Squish the kuru~!", "Kuru kuru~!"],
+            "credits-gif": "Version",
+            "footer-repository-text": "You can check out the GitHub repository here:",
+            "footer-repository-text-2": "herta_kuru",
+        },
+        cardImage: "img/card_en.jpg"
     },
     "ja": {
         audioList: [
